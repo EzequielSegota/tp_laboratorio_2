@@ -1,0 +1,12 @@
+C:\Users\Ezequiel\source\repos\Entidades\bin\Debug\Entidades.dll
+C:\Users\Ezequiel\source\repos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Ezequiel\source\repos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\source\repos\Entidades\obj\Debug\Entidades.dll
+C:\Users\Ezequiel\source\repos\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Ezequiel\source\repos\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Ezequiel\Desktop\Lab2\tp_laboratorio_2-master\TP 1\Entidades\bin\Debug\Entidades.dll
+C:\Users\Ezequiel\Desktop\Lab2\tp_laboratorio_2-master\TP 1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Ezequiel\Desktop\Lab2\tp_laboratorio_2-master\TP 1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Ezequiel\Desktop\Lab2\tp_laboratorio_2-master\TP 1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\Desktop\Lab2\tp_laboratorio_2-master\TP 1\Entidades\obj\Debug\Entidades.dll
+C:\Users\Ezequiel\Desktop\Lab2\tp_laboratorio_2-master\TP 1\Entidades\obj\Debug\Entidades.pdb
